@@ -1,0 +1,16 @@
+{
+  "record_count": 6601,
+  "site_counts": {
+    "n_ring": 4003,
+    "carboxyl": 3345,
+    "sulfonate": 198,
+    "phosphate": 71,
+    "phenol_oh": 372
+  },
+  "has_any_target_site": 6601,
+  "has_no_target_site": 0,
+  "smiles_missing": 0,
+  "smiles_parse_failed": 0,
+  "ring_count_missing": 0,
+  "output_json": "/Users/tkaray/Documents/cluster-extract/runs/ligand_db/mof-ligand-candidates/ligand_candidates_catalog.json"
+}
